@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_de.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_es.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_fr.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_it.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_ja.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_ko.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_pt_BR.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_zh_CN.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_zh_TW.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/marshaller/Messages.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/marshaller/Messages_de.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/marshaller/Messages_es.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/marshaller/Messages_fr.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/marshaller/Messages_it.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/marshaller/Messages_ja.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/marshaller/Messages_ko.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/marshaller/Messages_pt_BR.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/marshaller/Messages_zh_CN.properties" />
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/marshaller/Messages_zh_TW.properties" />
+    <custom-resource-bundle>
+      <file value="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages.properties" />
+      <file value="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_de.properties" />
+      <file value="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_es.properties" />
+      <file value="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_fr.properties" />
+      <file value="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_it.properties" />
+      <file value="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_ja.properties" />
+      <file value="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_ko.properties" />
+      <file value="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_pt_BR.properties" />
+      <file value="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_zh_CN.properties" />
+      <file value="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.4.0-b180830.0438/2438640218a5ff06411836bde7d872bb89736512/jaxb-impl-2.4.0-b180830.0438.jar!/com/sun/xml/bind/Messages_zh_TW.properties" />
+      <base-name>Messages</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
